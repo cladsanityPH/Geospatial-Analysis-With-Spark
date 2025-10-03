@@ -1,6 +1,6 @@
 # MBTA Real-Time Geospatial Analytics — Kafka • Spark Structured Streaming • MongoDB • Node • React/deck.gl
 
-**Tagline:** *GTFS-Realtime → Kafka → Spark (event-time windows) → MongoDB Change Streams → Node (WebSockets) → React + deck.gl (live map) + react-vis (live charts).*
+ *GTFS-Realtime → Kafka → Spark (event-time windows) → MongoDB Change Streams → Node (WebSockets) → React + deck.gl (live map) + react-vis (live charts).*
 
 <p align="center">
   <img src="images/Architecture.png" alt="End-to-end Architecture" width="900"/>
